@@ -6,15 +6,15 @@ It can be challenging to win by playing with a computer program but that's fun
 ---
 
 <h1>Contribution</h1> 
-This is a personal project but you can fork and feel free to contribite to this project.Let's build this more amazing.
+This is a personal project, no improvment or update carried out but you can fork and feel free to contribite to this project.Let's build this more amazing.
 
 ---
 <h1>Ideas</h1>
 <ul>
-<li>-Adding a multiplayer gaming mode.</li>
-<li>-Adding animation.</li>
-<li>-Adding a better UI. </li>
-<li>-Adding different winner sound for 'x' and 'O'respectivly.</li>
+<li>Adding a multiplayer gaming mode.</li>
+<li>Adding animation.</li>
+<li>Adding a better UI. </li>
+<li>Adding different winner sound for 'x' and 'O'respectivly.</li>
 <ul><br>
 
 
