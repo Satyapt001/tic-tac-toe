@@ -11,10 +11,8 @@ It can be challenging to win by playing with a computer program but that's fun
 <li>-Adding animation.</li>
 <li>-Adding a better UI. </li>
 <li>-Adding different winner sound for 'x' and 'O'respectivly.</li>
-<ul>
-<br>
+<ul><br>
 
 ---
-
 <h1>Contribution</h1> 
-<p>This is a personal project but you can fork and feel free to contribite to this project.Let's build this more amazing.<p>
+This is a personal project but you can fork and feel free to contribite to this project.Let's build this more amazing.
