@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: "Comic Neue", cursive, sans-serif;
     background: rgb(2,0,36);
-    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(to right, #0062E6, #33AEFF);
 }
 
 h1 {
